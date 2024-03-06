@@ -8,3 +8,4 @@ contenu du fichier jeux_donnees.sql qui se trouve dans le package database.
 
 # Auteur : 
 BERTE Bakary, ABASY Nael, AIT M'HAMED aimad
+Groupe : TIIL-A 2
